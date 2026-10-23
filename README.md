@@ -18,20 +18,10 @@ An end-to-end, real-time **Facial Emotion Recognition (FER)** system developed u
 * **Degree:** Master of Computer Applications (MCA)
 * **Department:** University Institute of Computing (UIC)
 * **Institution:** Chandigarh University
-* **Supervisor:** Pawandeep Sharma (E2916)
 * **Academic Session:** October 2026
 
 ---
 
-## 📖 Academic Project Report
-
-A comprehensive **43-page formal academic report** prepared strictly according to the Chandigarh University guidelines (`Report_Format .docx`) is available in the [`project_report/`](project_report/) directory:
-
-* 📄 **[Download Complete Project Report (PDF)](project_report/ML_Project_Report.pdf)** (43 Pages, 901 KB)
-* 📝 **[Editable Word Document (DOCX)](project_report/ML_Project_Report.docx)** (1.1 MB)
-* 🔍 **[Report Validation Checklist (Markdown)](project_report/Report_Validation.md)**
-
----
 
 ## 🚀 Key Features
 
@@ -174,13 +164,6 @@ python main.py --no-window --image Facial-Emotion-Recognition-using-CNN/images/n
 
 ---
 
-## 📜 References
-
-1. P. Ekman and W. V. Friesen, *"Constants across cultures in the face and emotion,"* Journal of Personality and Social Psychology, 1971.
-2. P. A. Viola and M. J. Jones, *"Rapid object detection using a boosted cascade of simple features,"* CVPR, 2001.
-3. I. J. Goodfellow et al., *"Challenges in representation learning: A report on three machine learning contests,"* ICONIP, 2013.
-4. F. Chollet, *"Xception: Deep learning with depthwise separable convolutions,"* CVPR, 2017.
-5. D. Arriaga et al., *"Real-time convolutional neural networks for emotion and gender classification,"* arXiv:1710.07557, 2017.
 
 ---
 
