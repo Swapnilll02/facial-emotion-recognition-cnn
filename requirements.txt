@@ -1,0 +1,9 @@
+# Requirements for Facial Emotion Recognition using CNN
+tensorflow==2.15.0
+keras==2.15.0
+numpy>=1.23.5,<2.0.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+h5py>=3.10.0
+pillow>=10.0.0
